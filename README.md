@@ -8,5 +8,5 @@ CWRU IOS Development Spring 2025
 # Remind Me App
 An Application that allows you to add, modify, and remove reminders. You can also set the priority of the reminders.
 
-# Networking
-How can an application interact with a network.
+# Networking App
+An application that makes a request to a URL and display a uuid.
