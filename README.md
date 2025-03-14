@@ -6,14 +6,7 @@ CWRU IOS Development Spring 2025
 # 1-23-25 To Do List
 
 # Remind Me App
-`ReminderModel` has the static functions. <br>
-`ReminderRow` is the datastructure for the row view. <br>
-`ContentView` has 
-- `Priority` enum 
-- `Reminder` struct 
+An Application that allows you to add, modify, and remove reminders. You can also set the priority of the reminders.
 
-`NewReminderView` is a view you see when you add a new reminder. 
-`Various Controls` is a demo of 3 different controls
-- Stepper
-- Slider
-- Toggle
+# Networking
+How can an application interact with a network.
