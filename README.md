@@ -10,3 +10,6 @@ An Application that allows you to add, modify, and remove reminders. You can als
 
 # Networking App
 An application that makes a request to a URL and display a uuid.
+
+# Comic App
+An application that has permission to XKCD and displays the comic of the day.
