@@ -19,3 +19,5 @@ An application that can create notes about books using SwiftData that is stored 
 
 # Multi View Attendee application (MultiDev)
 An application that shows a list of attendees to an event and has different views for different UI orientations.
+
+Given the right entitlements in AttendeeCheckerApp, the app is fully functional.
