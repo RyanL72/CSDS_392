@@ -1,9 +1,11 @@
 # CSDS_392
-CWRU IOS Development Spring 2025
+Applications made for CWRU IOS Development Spring 2025
 
 # Swift Syntax
+The basics of using swift.
 
 # To Do List
+A basic todo list application.
 
 # Remind Me App
 An Application that allows you to add, modify, and remove reminders. You can also set the priority of the reminders.
